@@ -10,6 +10,7 @@ public class ArrayListBasic {
 
 	public static void main(String[] args) {
 		ArrayList<Integer> list=new ArrayList<Integer>(); //capacity is 12 but size is 5
+		int n=10;
 		
 		//Add
 		list.add(1);
