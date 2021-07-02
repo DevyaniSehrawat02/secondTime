@@ -13,6 +13,7 @@ public class ArrayListBasic {
 		int n=10;
 		int b=11;
 		int d=12;
+		int m=13;
 		
 		//Add
 		list.add(1);
